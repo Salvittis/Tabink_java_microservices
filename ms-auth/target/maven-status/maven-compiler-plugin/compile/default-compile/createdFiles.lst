@@ -1,0 +1,9 @@
+br/com/investmentadvisor/auth/dto/UserLoginDTO.class
+br/com/investmentadvisor/auth/dto/UserResponseDTO.class
+br/com/investmentadvisor/auth/controller/UserController.class
+br/com/investmentadvisor/auth/service/UserService.class
+br/com/investmentadvisor/auth/model/User.class
+br/com/investmentadvisor/auth/repository/UserRepository.class
+br/com/investmentadvisor/auth/AuthApplication.class
+br/com/investmentadvisor/auth/dto/UserRegisterDTO.class
+br/com/investmentadvisor/auth/model/User$UserBuilder.class

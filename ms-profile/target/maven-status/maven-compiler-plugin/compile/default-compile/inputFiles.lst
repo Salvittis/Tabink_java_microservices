@@ -1,0 +1,6 @@
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-profile/src/main/java/br/com/investmentadvisor/profile/service/LocationService.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-profile/src/main/java/br/com/investmentadvisor/profile/dto/LocationDTO.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-profile/src/main/java/br/com/investmentadvisor/profile/ProfileApplication.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-profile/src/main/java/br/com/investmentadvisor/profile/repository/LocationRepository.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-profile/src/main/java/br/com/investmentadvisor/profile/controller/LocationController.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-profile/src/main/java/br/com/investmentadvisor/profile/model/Location.java

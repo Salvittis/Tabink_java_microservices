@@ -1,0 +1,7 @@
+br/com/investmentadvisor/activity/repository/EventRepository.class
+br/com/investmentadvisor/activity/model/Event$EventBuilder.class
+br/com/investmentadvisor/activity/controller/EventController.class
+br/com/investmentadvisor/activity/ActivityApplication.class
+br/com/investmentadvisor/activity/service/EventService.class
+br/com/investmentadvisor/activity/dto/EventDTO.class
+br/com/investmentadvisor/activity/model/Event.class

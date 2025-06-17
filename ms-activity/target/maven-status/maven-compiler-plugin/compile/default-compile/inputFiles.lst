@@ -1,0 +1,6 @@
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-activity/src/main/java/br/com/investmentadvisor/activity/service/EventService.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-activity/src/main/java/br/com/investmentadvisor/activity/repository/EventRepository.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-activity/src/main/java/br/com/investmentadvisor/activity/ActivityApplication.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-activity/src/main/java/br/com/investmentadvisor/activity/dto/EventDTO.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-activity/src/main/java/br/com/investmentadvisor/activity/model/Event.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-activity/src/main/java/br/com/investmentadvisor/activity/controller/EventController.java

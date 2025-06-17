@@ -1,0 +1,7 @@
+br/com/investmentadvisor/profile/ProfileApplication.class
+br/com/investmentadvisor/profile/model/Location$LocationBuilder.class
+br/com/investmentadvisor/profile/model/Location.class
+br/com/investmentadvisor/profile/dto/LocationDTO.class
+br/com/investmentadvisor/profile/service/LocationService.class
+br/com/investmentadvisor/profile/repository/LocationRepository.class
+br/com/investmentadvisor/profile/controller/LocationController.class

@@ -1,0 +1,8 @@
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/repository/UserRepository.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/controller/UserController.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/dto/UserLoginDTO.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/AuthApplication.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/dto/UserResponseDTO.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/service/UserService.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/dto/UserRegisterDTO.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-auth/src/main/java/br/com/investmentadvisor/auth/model/User.java
