@@ -1,0 +1,7 @@
+br/com/investmentadvisor/portfolio/service/ImpactService.class
+br/com/investmentadvisor/portfolio/model/Impact.class
+br/com/investmentadvisor/portfolio/controller/ImpactController.class
+br/com/investmentadvisor/portfolio/dto/ImpactDTO.class
+br/com/investmentadvisor/portfolio/repository/ImpactRepository.class
+br/com/investmentadvisor/portfolio/model/Impact$ImpactBuilder.class
+br/com/investmentadvisor/portfolio/PortfolioApplication.class
