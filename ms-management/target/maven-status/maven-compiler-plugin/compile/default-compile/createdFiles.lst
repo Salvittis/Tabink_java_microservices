@@ -1,0 +1,13 @@
+br/com/investmentadvisor/management/model/AdminRule.class
+br/com/investmentadvisor/management/model/AdminLog$AdminLogBuilder.class
+br/com/investmentadvisor/management/repository/AdminRepository.class
+br/com/investmentadvisor/management/model/Admin$AdminBuilder.class
+br/com/investmentadvisor/management/repository/AdminLogRepository.class
+br/com/investmentadvisor/management/model/Admin.class
+br/com/investmentadvisor/management/model/AdminLog.class
+br/com/investmentadvisor/management/service/AdminService.class
+br/com/investmentadvisor/management/model/AdminRule$AdminRuleBuilder.class
+br/com/investmentadvisor/management/repository/AdminRuleRepository.class
+br/com/investmentadvisor/management/controller/AdminController.class
+br/com/investmentadvisor/management/ManagementApplication.class
+br/com/investmentadvisor/management/dto/AdminDTO.class
