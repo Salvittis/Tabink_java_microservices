@@ -1,0 +1,7 @@
+br/com/investmentadvisor/advisor/repository/RecommendationRepository.class
+br/com/investmentadvisor/advisor/model/Recommendation$RecommendationBuilder.class
+br/com/investmentadvisor/advisor/controller/RecommendationController.class
+br/com/investmentadvisor/advisor/model/Recommendation.class
+br/com/investmentadvisor/advisor/dto/RecommendationDTO.class
+br/com/investmentadvisor/advisor/AdvisorApplication.class
+br/com/investmentadvisor/advisor/service/RecommendationService.class

@@ -1,0 +1,6 @@
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-advisor/src/main/java/br/com/investmentadvisor/advisor/repository/RecommendationRepository.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-advisor/src/main/java/br/com/investmentadvisor/advisor/service/RecommendationService.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-advisor/src/main/java/br/com/investmentadvisor/advisor/AdvisorApplication.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-advisor/src/main/java/br/com/investmentadvisor/advisor/model/Recommendation.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-advisor/src/main/java/br/com/investmentadvisor/advisor/dto/RecommendationDTO.java
+/home/ubuntu/InvestmentAdvisor_Java_Microservices/ms-advisor/src/main/java/br/com/investmentadvisor/advisor/controller/RecommendationController.java
