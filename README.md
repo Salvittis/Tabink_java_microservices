@@ -1,6 +1,6 @@
-# InvestmentAdvisor - Sistema de Assessor Virtual Inteligente
+# TABINK - Sistema de Assessor Virtual Inteligente
 
-Este repositório contém a implementação completa do sistema **InvestmentAdvisor**, um projeto baseado em uma arquitetura de microsserviços com backend em **Java (Spring Boot)** e banco de dados Oracle (simulado com **H2**). O objetivo do sistema é fornecer assessoria virtual inteligente para plataformas de investimento, oferecendo recomendações personalizadas e educação financeira.
+Este repositório contém a implementação completa do sistema **TABINK_JAVA**, um projeto baseado em uma arquitetura de microsserviços com backend em **Java (Spring Boot)** e banco de dados Oracle (simulado com **H2**). O objetivo do sistema é fornecer assessoria virtual inteligente para plataformas de investimento, oferecendo recomendações personalizadas e educação financeira.
 
 * * *
 
